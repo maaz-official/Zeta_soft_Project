@@ -70,5 +70,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For any queries, please contact:
-- Email: your-muhammadmaaz07@gmail.com
+- Email: muhammadmaaz07@gmail.com
 ```
